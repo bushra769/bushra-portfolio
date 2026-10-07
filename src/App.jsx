@@ -5,7 +5,7 @@ function App() {
     <div className="portfolio">
       {/* Navbar */}
       <nav className="navbar">
-        <div className="logo">Pretty Please</div>
+        <div className="logo">Bushra Saeed</div>
 
         <div className="nav-links">
           <a href="#home">Home</a>
@@ -23,7 +23,7 @@ function App() {
     <span className="hero-tag">WELCOME TO MY PORTFOLIO</span>
 
     <h1>
-      Hi, I'm <span>Pretty Please</span>
+      Hi, I'm <span>Bushra Saeed</span>
     </h1>
 
     <h2>Aspiring Software Developer | Web Development</h2>
@@ -49,7 +49,7 @@ function App() {
   <div className="hero-card">
     <div className="hero-avatar">PP</div>
 
-    <h3>Pretty Please</h3>
+    <h3>Bushra Saeed</h3>
 
     <p>Aspiring Software Developer</p>
 
@@ -224,7 +224,7 @@ function App() {
 
       {/* Footer */}
       <footer>
-        <p>© 2026 Pretty Please. All rights reserved.</p>
+        <p>© 2026 Bushra Saeed. All rights reserved.</p>
       </footer>
     </div>
   );
